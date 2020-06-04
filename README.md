@@ -1,2 +1,2 @@
-20203044 Yujin Kim
-Kookmin Univ. SW
+# 20203044 Yujin Kim
+# Kookmin Univ. SW

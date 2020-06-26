@@ -7,8 +7,7 @@ def application(environ, start_response):
     b = d.get('b', [''])[0]
 
     sum, product = 0, 0
-
-    if '' not in [a,b]:
+    if a.isdigit() and b.isdigit():
         a, b = int(a), int(b)
     sum = a+b
     product = a*b
